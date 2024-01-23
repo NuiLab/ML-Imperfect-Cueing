@@ -1,0 +1,97 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f09f279848e42cea259348b13bce4c5, type: 3}
+  m_Name: IdLabelConfig
+  m_EditorClassIdentifier: 
+  m_LabelEntries:
+  - label: Object1
+    id: 0
+  - label: Object2
+    id: 1
+  - label: Object3
+    id: 2
+  - label: Object4
+    id: 3
+  - label: Object5
+    id: 4
+  - label: Object6
+    id: 5
+  - label: Object7
+    id: 6
+  - label: Object8
+    id: 7
+  - label: Object9
+    id: 8
+  - label: Object10
+    id: 9
+  - label: Object11
+    id: 10
+  - label: Object12
+    id: 11
+  - label: Object13
+    id: 12
+  - label: Object14
+    id: 13
+  - label: Object15
+    id: 14
+  - label: Object16
+    id: 15
+  - label: Object17
+    id: 16
+  - label: Object18
+    id: 17
+  - label: Object19
+    id: 18
+  - label: Object20
+    id: 19
+  - label: Object21
+    id: 20
+  - label: Object22
+    id: 21
+  - label: Object23
+    id: 22
+  - label: Object24
+    id: 23
+  - label: Object25
+    id: 24
+  - label: Object26
+    id: 25
+  - label: Object27
+    id: 26
+  - label: Object28
+    id: 27
+  - label: Object29
+    id: 28
+  - label: Object30
+    id: 29
+  - label: Object31
+    id: 30
+  - label: Object32
+    id: 31
+  - label: Object33
+    id: 32
+  - label: Object34
+    id: 33
+  - label: Object35
+    id: 34
+  - label: Object36
+    id: 35
+  - label: Object37
+    id: 36
+  - label: Object38
+    id: 37
+  - label: Object39
+    id: 38
+  - label: Object40
+    id: 39
+  autoAssignIds: 1
+  startingLabelId: 0
